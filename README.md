@@ -37,4 +37,5 @@
 
   ## Screen Shots
 
-  
+  ![Notetakerhomescreen](https://github.com/ChrisDorner1/Note-Taker/assets/122653164/97679b4b-9532-472f-be5d-81a66458e4e6)
+![notetakernotes](https://github.com/ChrisDorner1/Note-Taker/assets/122653164/75c9955e-eeff-4329-8d3b-12c8c58dbaa7)
